@@ -1,71 +1,29 @@
-# Getting Started with Create React App
+# Chatbot Flow Builder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to [Chatbot Flow Builder](https://chatbot-flow-builder-rust.vercel.app/), This is a tool designed to help you easily create and manage flow diagrams for your chatbot conversations.
 
-## Available Scripts
+View the application [here](https://chatbot-flow-builder-rust.vercel.app/)
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- Intuitive drag-and-drop interface for creating chatbot flow diagrams.
+- Customizable nodes and connections to design the conversation flow exactly how you want.
+- Export diagrams in various formats for easy integration with your chatbot platform.
+- Collaborate with team members in real-time with our cloud-based storage.
+- And much more!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## How to Use and future Scope
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. **Sign Up/Login:** Visit our [website](https://chatbotflowbuilder.com) to sign up or log in to your account.
 
-### `npm test`
+2. **Create a New Flow:** Once logged in, click on the "New Flow" button to start building your chatbot flow diagram.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. **Drag and Drop Nodes:** Use the drag-and-drop interface to add nodes representing different steps or messages in your conversation flow.
 
-### `npm run build`
+4. **Connect Nodes:** Connect nodes with arrows to indicate the flow of the conversation.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+5. **Customize:** Customize each node with text, images, buttons, and more to tailor the conversation to your needs.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+6. **Export and Integrate:** Export your flow diagram in your preferred format and integrate it with your chatbot platform.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# chatbot-flow-builder
+7. **Collaborate:** Invite team members to collaborate on your flow diagrams in real-time.
